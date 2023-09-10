@@ -1,5 +1,11 @@
 # USBPTool <img src="https://github.com/NotHavocc/USBPTool/assets/135747967/69e4ef0e-4344-4af7-8b0d-df95610f17f8" width="150" align="left">
 
+![GitHub issues](https://img.shields.io/github/issues/NotHavocc/USBPTool)
+![GitHub all releases](https://img.shields.io/github/downloads/NotHavocc/USBPTool/total)
+![GitHub](https://img.shields.io/github/license/NotHavocc/USBPTool)
+![Static Badge](https://img.shields.io/badge/open_source-with_%3C3-blue)
+
+
 A CLI-based tool for downloading portable programs on your external drive easily
 ## Dependencies 
 Use [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
